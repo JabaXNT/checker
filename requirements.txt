@@ -1,4 +1,5 @@
 fastapi
 uvicorn[standard]
 python-docx
+bayoo-docx
 python-multipart

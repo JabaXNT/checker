@@ -1,5 +1,5 @@
 import re
-from base_check import BaseCheck
+from checks.base_check import BaseCheck
 from docx.shared import Pt
 
 class FontSizeCheck(BaseCheck):

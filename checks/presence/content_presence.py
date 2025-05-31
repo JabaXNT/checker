@@ -1,4 +1,4 @@
-from base_check import BaseCheck
+from checks.base_check import BaseCheck
 
 class ContentTitlePresenceCheck(BaseCheck):
     CONTENT_TITLE = "СОДЕРЖАНИЕ"

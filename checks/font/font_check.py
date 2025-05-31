@@ -1,4 +1,4 @@
-from base_check import BaseCheck
+from checks.base_check import BaseCheck
 
 class FontNameCheck(BaseCheck):
     REQUIRED_FONT = "Times New Roman"

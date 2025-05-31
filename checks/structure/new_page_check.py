@@ -1,4 +1,4 @@
-from base_check import BaseCheck
+from checks.base_check import BaseCheck
 
 REQUIRED_TITLES = [
     "СОДЕРЖАНИЕ", "ВВЕДЕНИЕ", "ЗАКЛЮЧЕНИЕ", "СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ"

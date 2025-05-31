@@ -1,4 +1,4 @@
-from base_check import BaseCheck
+from checks.base_check import BaseCheck
 from docx import Document
 
 REQUIRED_TITLES = [
